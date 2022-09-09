@@ -14,44 +14,44 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 ## OpenTabletDriver Plugins
 
-[Kuuube's CHATTER EXTERMINATOR](https://github.com/Kuuuube/Kuuube-s-CHATTER-EXTERMINATOR)
+[Kuuube's CHATTER EXTERMINATOR](https://github.com/Kuuuube/Kuuube-s-CHATTER-EXTERMINATOR) Extremely simple to use anti-chatter with perfect low latency CHATTER EXTERMINATION.
 
-[Circular Area](https://github.com/Kuuuube/Circular_Area)
+[Circular Area](https://github.com/Kuuuube/Circular_Area) Circular mapping for tablet areas.
 
-[Tablet Area Randomizer](https://github.com/Kuuuube/Tablet_Area_Randomizer)
+[Tablet Area Randomizer](https://github.com/Kuuuube/Tablet_Area_Randomizer) Randomizes tablet area within given parameters.
 
-[Hover Distance Limiter](https://github.com/Kuuuube/Hover_Distance_Limiter)
+[Hover Distance Limiter](https://github.com/Kuuuube/Hover_Distance_Limiter) Limits minimum and maximum hover distance.
 
-[Tablet Debounce](https://github.com/Kuuuube/Tablet_Debounce)
+[Tablet Debounce](https://github.com/Kuuuube/Tablet_Debounce) Prevents unintended repetition of pen tip inputs.
 
-[Chatter Generator](https://github.com/Kuuuube/Chatter_Generator)
+[Chatter Generator](https://github.com/Kuuuube/Chatter_Generator) Add chatter, shake, noise, etc to your tablet input.
 
-[Flip Axes](https://github.com/Kuuuube/Flip_Axes)
+[Flip Axes](https://github.com/Kuuuube/Flip_Axes) Flips the X or Y axes of the tablet area.
 
 ## Tablet Tools
 
-[PTK-led-sandbox](https://github.com/Kuuuube/PTK-led-sandbox)
+[PTK-led-sandbox](https://github.com/Kuuuube/PTK-led-sandbox) App for working with Wacom PTK-x40 LED displays.
 
-[InitSender](https://github.com/Kuuuube/InitSender)
+[InitSender](https://github.com/Kuuuube/InitSender) Tool for continuously sending set feature inits to USB devices.
 
 ## osu! Tools
 
-[osu! Collection Factory](https://github.com/Kuuuube/osu_collection_factory)
+[osu! CollectionCSVtoDB](https://github.com/Kuuuube/osu_CollectionCSVtoDB) Converts osu! beatmap lists into an osu! collection.
 
-[OsuFileIO CLI](https://github.com/Kuuuube/OsuFileIO_CLI)
+[rxhddt](https://github.com/Kuuuube/rxhddt) An osu replay editor to modify the mods from the command line.
 
-[osu! CollectionCSVtoDB](https://github.com/Kuuuube/osu_CollectionCSVtoDB)
+[HitSpeedTest](https://github.com/Kuuuube/HitSpeedTest) osu! HitSpeedTest Translated to English.
 
-[rxhddt](https://github.com/Kuuuube/rxhddt)
+[osu! Collection Factory](https://github.com/Kuuuube/osu_collection_factory) Scripts for making osu! collections.
 
-[HitSpeedTest](https://github.com/Kuuuube/HitSpeedTest)
+[osuSkills Scripts](https://github.com/Kuuuube/osuSkills_Scripts) Jank scripts for automated calculation of osuSkills stats on maps.
 
-[osuSkills Scripts](https://github.com/Kuuuube/osuSkills_Scripts)
+[OsuFileIO CLI](https://github.com/Kuuuube/OsuFileIO_CLI) Jank CLI for OsuFileIO to output analysis as json.
 
-[OsuCollectionGenerator](https://github.com/Kuuuube/OsuCollectionGenerator)
+[OsuCollectionGenerator](https://github.com/Kuuuube/OsuCollectionGenerator) Generate stream collections from your osu! beatmaps. 
 
 ## Keyboard Things
 
-[Kuuube's keyboad layout stuff](https://github.com/Kuuuube/kuuube_keyboard_layout_stuff)
+[Kuuube's keyboad layout stuff](https://github.com/Kuuuube/kuuube_keyboard_layout_stuff) Things related to my personal keyboard layout and settings. 
 
-[KeyChordTester](https://github.com/Kuuuube/KeyChordTester)
+[KeyChordTester](https://github.com/Kuuuube/KeyChordTester) A simple tool to check when keys are received. 
