@@ -55,3 +55,11 @@ Discord: https://discord.gg/T5vEAh4ruF
 [Kuuube's keyboad layout stuff](https://github.com/Kuuuube/kuuube_keyboard_layout_stuff) Things related to my personal keyboard layout and settings. 
 
 [KeyChordTester](https://github.com/Kuuuube/KeyChordTester) A simple tool to check when keys are received. 
+
+## Misc Projects
+
+[Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
+
+[Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
+
+[Artisan Stock Checker](https://github.com/Kuuuube/Artisan_Stock_Checker) Scripts to check stock of artisan mousepads. 
