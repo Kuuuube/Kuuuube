@@ -67,3 +67,5 @@ Discord: https://discord.gg/T5vEAh4ruF
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
 
 [Artisan Stock Checker](https://github.com/Kuuuube/Artisan_Stock_Checker) Scripts to check stock of artisan mousepads. 
+
+[Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
