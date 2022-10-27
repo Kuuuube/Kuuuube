@@ -40,7 +40,7 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [osu! CollectionCSVtoDB](https://github.com/Kuuuube/osu_CollectionCSVtoDB) Converts osu! beatmap lists into an osu! collection.
 
-[osu! CollectionOSDBtoCSV](https://github.com/Kuuuube/osu_CollectionOSDBtoCSV) Converts osdb files from collection manager into csv files.
+[osu! CollectionConverter](https://github.com/Kuuuube/osu_CollectionConverter) Converts between different osu! collection formats.
 
 [rxhddt](https://github.com/Kuuuube/rxhddt) An osu replay editor to modify the mods from the command line.
 
