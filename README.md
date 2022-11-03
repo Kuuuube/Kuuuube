@@ -6,7 +6,7 @@
 
 osu!: https://osu.ppy.sh/users/11160804
 
-Youtube: https://www.youtube.com/channel/UCQvHpYmoGylvdacdHajgllQ
+Youtube: https://www.youtube.com/@kuuube
 
 Discord: https://discord.gg/T5vEAh4ruF
 
