@@ -36,6 +36,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [InitSender](https://github.com/Kuuuube/InitSender) Tool for continuously sending set feature inits to USB devices.
 
+[Serial Wacom Tools](https://github.com/Kuuuube/serial_wacom_tools) Tools for working with serial wacom tablets.
+
 ## osu! Tools
 
 [osu! CollectionConverter](https://github.com/Kuuuube/osu_CollectionConverter) Converts between different osu! collection formats.
@@ -67,5 +69,3 @@ Discord: https://discord.gg/T5vEAh4ruF
 [Artisan Stock Checker](https://github.com/Kuuuube/Artisan_Stock_Checker) Scripts to check stock of artisan mousepads. 
 
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
-
-[Serial Wacom Tools](https://github.com/Kuuuube/serial_wacom_tools) Tools for working with serial wacom tablets.
