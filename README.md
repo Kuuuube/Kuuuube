@@ -36,7 +36,7 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [InitSender](https://github.com/Kuuuube/InitSender) Tool for continuously sending set feature inits to USB devices.
 
-[Serial Wacom Tools](https://github.com/Kuuuube/serial_wacom_tools) Tools for working with serial wacom tablets.
+[KuuubeTD](https://github.com/Kuuuube/KuuubeTD) Kuuube Tablet Driver, a driver for serial Wacom tablets.
 
 ## osu! Tools
 
