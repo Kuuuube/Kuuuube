@@ -32,11 +32,11 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 ## Tablet Tools
 
+[KuuubeTD](https://github.com/Kuuuube/KuuubeTD) Kuuube Tablet Driver, a driver for serial Wacom tablets.
+
 [PTK-led-sandbox](https://github.com/Kuuuube/PTK-led-sandbox) App for working with Wacom PTK-x40 LED displays.
 
 [InitSender](https://github.com/Kuuuube/InitSender) Tool for continuously sending set feature inits to USB devices.
-
-[KuuubeTD](https://github.com/Kuuuube/KuuubeTD) Kuuube Tablet Driver, a driver for serial Wacom tablets.
 
 ## osu! Tools
 
