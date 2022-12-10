@@ -50,7 +50,7 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [osu! Collection Factory](https://github.com/Kuuuube/osu_collection_factory) Scripts for making osu! collections.
 
-[osuSkills Scripts](https://github.com/Kuuuube/osuSkills_Scripts) Jank scripts for automated calculation of osuSkills stats on maps.
+[osu!Skills rs](https://github.com/Kuuuube/osu_skills_rs) osu!Skills calculator rewritten in rust.
 
 [OsuFileIO CLI](https://github.com/Kuuuube/OsuFileIO_CLI) Jank CLI for OsuFileIO to output analysis as json.
 
