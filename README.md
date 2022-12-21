@@ -28,6 +28,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Flip Axes](https://github.com/Kuuuube/Flip_Axes) Flips the X or Y axes of the tablet area.
 
+[Rapid Trigger](https://github.com/Kuuuube/Rapid_Trigger) Dynamically changes pen tip binding activation and deactivation points.
+
 [3D Tablet Area](https://github.com/Kuuuube/3D_Tablet_Area) Various methods of modifying position values through the use of other values.
 
 ## Tablet Tools
