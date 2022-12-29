@@ -30,6 +30,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Rapid Trigger](https://github.com/Kuuuube/Rapid_Trigger) Dynamically changes pen tip binding activation and deactivation points.
 
+[Tablet Calibration](https://github.com/Kuuuube/Tablet_Calibration) Filters to make perfect display tablet calibration possible.
+
 [3D Tablet Area](https://github.com/Kuuuube/3D_Tablet_Area) Various methods of modifying position values through the use of other values.
 
 ## Tablet Tools
