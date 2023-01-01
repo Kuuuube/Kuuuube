@@ -18,6 +18,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Circular Area](https://github.com/Kuuuube/Circular_Area) Circular mapping for tablet areas.
 
+[Slimy Scylla](https://github.com/Kuuuube/Slimy_Scylla) An open source port of Lazy Nezumi's smoothing algorithms.
+
 [Tablet Area Randomizer](https://github.com/Kuuuube/Tablet_Area_Randomizer) Randomizes tablet area within given parameters.
 
 [Hover Distance Limiter](https://github.com/Kuuuube/Hover_Distance_Limiter) Limits minimum and maximum hover distance.
