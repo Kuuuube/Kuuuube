@@ -18,7 +18,7 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Circular Area](https://github.com/Kuuuube/Circular_Area) Circular mapping for tablet areas.
 
-[Slimy Scylla](https://github.com/Kuuuube/Slimy_Scylla) An open source port of Lazy Nezumi's smoothing algorithms.
+[Slimy Scylla](https://github.com/Kuuuube/Slimy_Scylla) Provides popular input processing methods for drawing tablets.
 
 [Tablet Area Randomizer](https://github.com/Kuuuube/Tablet_Area_Randomizer) Randomizes tablet area within given parameters.
 
