@@ -76,4 +76,6 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Artisan Stock Checker](https://github.com/Kuuuube/Artisan_Stock_Checker) Scripts to check stock of artisan mousepads. 
 
+[Marketplace Tracker](https://github.com/Kuuuube/marketplace_tracker) Tracks new listings on online marketplaces and posts to webhooks.
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
