@@ -36,6 +36,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [3D Tablet Area](https://github.com/Kuuuube/3D_Tablet_Area) Various methods of modifying position values through the use of other values.
 
+[Pressure Emulation](https://github.com/Kuuuube/Pressure_Emulation) Tool for consistent testing of pen pressure. 
+
 ## Tablet Tools
 
 [KuuubeTD](https://github.com/Kuuuube/KuuubeTD) Kuuube Tablet Driver, a driver for serial Wacom tablets.
