@@ -38,6 +38,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Pressure Emulation](https://github.com/Kuuuube/Pressure_Emulation) Tool for consistent testing of pen pressure. 
 
+[Unterp](https://github.com/Kuuuube/unterp) Popular OpenTabletDriver interpolator filters with interpolation removed.
+
 ## Tablet Tools
 
 [KuuubeTD](https://github.com/Kuuuube/KuuubeTD) Kuuube Tablet Driver, a driver for serial Wacom tablets.
