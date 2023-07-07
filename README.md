@@ -82,4 +82,6 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Marketplace Tracker](https://github.com/Kuuuube/marketplace_tracker) Tracks new listings on online marketplaces and posts to webhooks.
 
+[Hentaigana Input](https://github.com/Kuuuube/hentaigana_input) Input method for archaic Japanese characters.
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
