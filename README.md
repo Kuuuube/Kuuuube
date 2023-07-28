@@ -82,6 +82,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Marketplace Tracker](https://github.com/Kuuuube/marketplace_tracker) Tracks new listings on online marketplaces and posts to webhooks.
 
+[JP Number Converter](https://github.com/Kuuuube/jp_number_converter) Contains various methods for processing Japanese numbers.
+
 [Hentaigana Input](https://github.com/Kuuuube/hentaigana_input) Input method for archaic Japanese characters.
 
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
