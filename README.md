@@ -34,6 +34,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Tablet Calibration](https://github.com/Kuuuube/Tablet_Calibration) Filters to make perfect display tablet calibration possible.
 
+[Monitor Toggle](https://github.com/Kuuuube/monitor_toggle) Bindings for switching between monitors.
+
 [3D Tablet Area](https://github.com/Kuuuube/3D_Tablet_Area) Various methods of modifying position values through the use of other values.
 
 [Pressure Emulation](https://github.com/Kuuuube/Pressure_Emulation) Tool for consistent testing of pen pressure. 
