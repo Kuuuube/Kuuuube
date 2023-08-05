@@ -70,7 +70,7 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 ## Keyboard Things
 
-[Kuuube's keyboad layout stuff](https://github.com/Kuuuube/kuuube_keyboard_layout_stuff) Things related to my personal keyboard layout and settings. 
+[Kuuube's keyboard layout stuff](https://github.com/Kuuuube/kuuube_keyboard_layout_stuff) Things related to my personal keyboard layout and settings. 
 
 [KeyChordTester](https://github.com/Kuuuube/KeyChordTester) A simple tool to check when keys are received. 
 
