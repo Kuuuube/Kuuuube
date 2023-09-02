@@ -88,4 +88,6 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Hentaigana Input](https://github.com/Kuuuube/hentaigana_input) Input method for archaic Japanese characters.
 
+[Animelon DL](https://github.com/Kuuuube/animelon_dl) Command line downloader for https://animelon.com/.
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
