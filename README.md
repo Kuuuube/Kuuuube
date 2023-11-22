@@ -50,7 +50,7 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [PTK-led-sandbox](https://github.com/Kuuuube/PTK-led-sandbox) App for working with Wacom PTK-x40 LED displays.
 
-[InitSender](https://github.com/Kuuuube/InitSender) Tool for continuously sending set feature inits to USB devices.
+[InitSender](https://github.com/Kuuuube/InitSender) Tool for continuously sending feature inits or output inits to USB devices.
 
 ## osu! Tools
 
