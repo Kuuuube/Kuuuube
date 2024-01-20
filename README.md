@@ -90,4 +90,6 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Animelon DL](https://github.com/Kuuuube/animelon_dl) Command line downloader for https://animelon.com/.
 
+[Kanji Grid Kuuube](https://github.com/Kuuuube/kanjigrid) Kanji Grid for Anki 23.10+ with ui improvements and bug fixes.
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
