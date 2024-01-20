@@ -74,6 +74,16 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [KeyChordTester](https://github.com/Kuuuube/KeyChordTester) A simple tool to check when keys are received. 
 
+## Japanese Tools
+
+[JP Number Converter](https://github.com/Kuuuube/jp_number_converter) Contains various methods for processing and converting Arabic numbers to Japanese numbers.
+
+[Hentaigana Input](https://github.com/Kuuuube/hentaigana_input) Input method for archaic Japanese characters.
+
+[Animelon DL](https://github.com/Kuuuube/animelon_dl) Command line downloader for https://animelon.com/.
+
+[Kanji Grid Kuuube](https://github.com/Kuuuube/kanjigrid) Kanji Grid for Anki 23.10+ with ui improvements and bug fixes.
+
 ## Misc Projects
 
 [Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
@@ -83,13 +93,5 @@ Discord: https://discord.gg/T5vEAh4ruF
 [Artisan Stock Checker](https://github.com/Kuuuube/Artisan_Stock_Checker) Scripts to check stock of artisan mousepads. 
 
 [Marketplace Tracker](https://github.com/Kuuuube/marketplace_tracker) Tracks new listings on online marketplaces and posts to webhooks.
-
-[JP Number Converter](https://github.com/Kuuuube/jp_number_converter) Contains various methods for processing and converting Arabic numbers to Japanese numbers.
-
-[Hentaigana Input](https://github.com/Kuuuube/hentaigana_input) Input method for archaic Japanese characters.
-
-[Animelon DL](https://github.com/Kuuuube/animelon_dl) Command line downloader for https://animelon.com/.
-
-[Kanji Grid Kuuube](https://github.com/Kuuuube/kanjigrid) Kanji Grid for Anki 23.10+ with ui improvements and bug fixes.
 
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
