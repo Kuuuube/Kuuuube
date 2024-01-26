@@ -94,9 +94,9 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 ## Android Apps
 
-[Nabu](https://github.com/Kuuuube/Nabu) Fork of [Nabu](https://github.com/jpkhawam/Nabu) (Fully Offline Android note taking app with UI inspired by Google Keep) with theme fixes, basic backup option, and minor bug fixes.
+[Nabu](https://github.com/Kuuuube/Nabu) Fully Offline Android note taking app with UI inspired by Google Keep. Fork of [Nabu](https://github.com/jpkhawam/Nabu) with theme fixes, basic backup option, and minor bug fixes.
 
-[Floating Timer](https://github.com/Kuuuube/FloatingCountdownTimer) Fork of [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) (A countdown timer and stopwatch that will float over other apps) with premium features unlocked, additional small features, and fixes.
+[Floating Timer](https://github.com/Kuuuube/FloatingCountdownTimer) A countdown timer and stopwatch that will float over other apps. Fork of [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) with premium features unlocked, additional small features, and fixes.
 
 ## Misc Projects
 
