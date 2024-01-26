@@ -92,6 +92,12 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Marketplace Tracker](https://github.com/Kuuuube/marketplace_tracker) Tracks new listings on online marketplaces and posts to webhooks.
 
+## Android Apps
+
+[Nabu](https://github.com/Kuuuube/Nabu) Fork of [Nabu](https://github.com/jpkhawam/Nabu) (Fully Offline Android note taking app with UI inspired by Google Keep) with theme fixes, basic backup option, and minor bug fixes.
+
+[Floating Timer](https://github.com/Kuuuube/FloatingCountdownTimer) Fork of [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) (A countdown timer and stopwatch that will float over other apps) with premium features unlocked, additional small features, and fixes.
+
 ## Misc Projects
 
 [Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
