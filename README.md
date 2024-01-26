@@ -84,14 +84,16 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Kanji Grid Kuuube](https://github.com/Kuuuube/kanjigrid) Kanji Grid for Anki 23.10+ with ui improvements and bug fixes.
 
-## Misc Projects
-
-[Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
+## Marketplace/Shopping Tools
 
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
 
 [Artisan Stock Checker](https://github.com/Kuuuube/Artisan_Stock_Checker) Scripts to check stock of artisan mousepads. 
 
 [Marketplace Tracker](https://github.com/Kuuuube/marketplace_tracker) Tracks new listings on online marketplaces and posts to webhooks.
+
+## Misc Projects
+
+[Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
 
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
