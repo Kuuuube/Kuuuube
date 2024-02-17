@@ -84,6 +84,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Kanji Grid Kuuube](https://github.com/Kuuuube/kanjigrid) Kanji Grid for Anki 23.10+ with ui improvements and bug fixes.
 
+[Minimal Pairs](https://github.com/Kuuuube/minimal-pairs) A backup of the コツ minimal pairs test.
+
 ## Marketplace/Shopping Tools
 
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
