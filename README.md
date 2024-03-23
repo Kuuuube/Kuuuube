@@ -102,6 +102,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 ## Misc Projects
 
+[Kuuubedit](https://github.com/Kuuuube/kuuubedit) Powerful headless text editor for processing enormous files using complex regex patterns.
+
 [Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
 
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
