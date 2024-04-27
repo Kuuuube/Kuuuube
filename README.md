@@ -86,6 +86,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Minimal Pairs](https://github.com/Kuuuube/minimal-pairs) A backup of the コツ minimal pairs test.
 
+[Crop Theft](https://github.com/Kuuuube/crop-theft) A simple and robust anki note type.
+
 ## Marketplace/Shopping Tools
 
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
