@@ -106,6 +106,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Kuuubedit](https://github.com/Kuuuube/kuuubedit) Powerful headless text editor for processing enormous files using complex regex patterns.
 
+[Robohotkey](https://github.com/Kuuuube/robohotkey) Simple Linux X11 temporary key remapper with tray icon and hotkey toggling.
+
 [Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
 
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
