@@ -88,6 +88,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Crop Theft](https://github.com/Kuuuube/crop-theft) A simple and robust anki note type.
 
+[Yomitan Dictionaries](https://github.com/Kuuuube/yomitan-dictionaries) A collection of Yomitan dictionaries created or modified by me.
+
 ## Marketplace/Shopping Tools
 
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
