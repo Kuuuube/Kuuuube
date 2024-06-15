@@ -90,6 +90,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Yomitan Dictionaries](https://github.com/Kuuuube/yomitan-dictionaries) A collection of Yomitan dictionaries created or modified by me.
 
+[Japanese Text Analyzer](https://github.com/Kuuuube/japanese_text_analyzer) Analysis tool for ocr files in Mokuro processed manga.
+
 ## Marketplace/Shopping Tools
 
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
