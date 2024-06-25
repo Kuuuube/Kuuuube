@@ -92,6 +92,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Japanese Text Analyzer](https://github.com/Kuuuube/japanese_text_analyzer) Analysis tool for ocr files in Mokuro processed manga.
 
+[Kana Quiz](https://github.com/Kuuuube/kana-quiz) Hiragana, Katakana, and Hentaigana learning tool.
+
 ## Marketplace/Shopping Tools
 
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
