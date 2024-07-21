@@ -118,6 +118,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Bookmarker](https://github.com/Kuuuube/bookmarker) Discord bot for bookmarking messages.
 
+[Calcuuube](https://github.com/Kuuuube/calcuuube) Simple calculator that does exactly what I need with zero extra clutter.
+
 [Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
 
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
