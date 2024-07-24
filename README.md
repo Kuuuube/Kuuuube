@@ -112,6 +112,10 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Kuuubedit](https://github.com/Kuuuube/kuuubedit) Powerful headless text editor for processing enormous files using complex regex patterns.
 
+[Rawaccel Convert](https://github.com/Kuuuube/rawaccel_convert) Tool for converting rawaccel curve settings to points.
+
+[Rawaccel Convert GUI](https://github.com/Kuuuube/rawaccel-convert-gui) GUI for Rawaccel Convert.
+
 [Image Mapping](https://github.com/Kuuuube/image_mapping) Transform images using arbitrary functions.
 
 [Robohotkey](https://github.com/Kuuuube/robohotkey) Simple Linux X11 temporary key remapper with tray icon and hotkey toggling.
