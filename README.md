@@ -126,4 +126,6 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Quartic Cubic Quadratic Solver](https://github.com/Kuuuube/Quartic_Cubic_Quadratic_Solver) Code snippets for solving Quartic, Cubic, and Quadratic equations. 
 
+[Random Wikipedia Page](https://github.com/Kuuuube/random-wikipedia-page) Opens a random Wikipedia page in an iframe for easy re-rolling of pages.
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
