@@ -90,7 +90,7 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Yomitan Dictionaries](https://github.com/Kuuuube/yomitan-dictionaries) A collection of Yomitan dictionaries created or modified by me.
 
-[Japanese Text Analyzer](https://github.com/Kuuuube/japanese_text_analyzer) Analysis tool for ocr files in Mokuro processed manga.
+[Japanese Text Analyzer](https://github.com/Kuuuube/japanese_text_analyzer) Analysis tool for ocr files in Mokuro processed manga. Also supports miscellaneous files.
 
 [Kana Quiz](https://github.com/Kuuuube/kana-quiz) Hiragana, Katakana, and Hentaigana learning tool.
 
