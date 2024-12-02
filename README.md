@@ -84,6 +84,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Kanji Grid Kuuube](https://github.com/Kuuuube/kanjigrid) Kanji Grid for Anki 23.10+ with ui improvements and bug fixes.
 
+[Kanji Grid Timelapse](https://github.com/Kuuuube/kanjigrid-timelapse) Generates timelapse videos using data exported from the Kanjigrid Anki addon.
+
 [Minimal Pairs](https://github.com/Kuuuube/minimal-pairs) A backup of the コツ minimal pairs test.
 
 [Crop Theft](https://github.com/Kuuuube/crop-theft) A simple and robust anki note type.
