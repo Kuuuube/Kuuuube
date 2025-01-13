@@ -130,4 +130,6 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Random Wikipedia Page](https://github.com/Kuuuube/random-wikipedia-page) Opens a random Wikipedia page in an iframe for easy re-rolling of pages.
 
+[Anki Haptics](https://github.com/Kuuuube/ankihaptics) Haptics device integration for Anki.
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
