@@ -96,6 +96,8 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Kana Quiz](https://github.com/Kuuuube/kana-quiz) Hiragana, Katakana, and Hentaigana learning tool.
 
+[JMdict PyGlossary](https://github.com/Kuuuube/jmdict-pyglossary) Automated builds of JMdict and JMnedict for PyGlossary supported dictionary formats.
+
 ## Marketplace/Shopping Tools
 
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
