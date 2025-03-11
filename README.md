@@ -134,4 +134,6 @@ Discord: https://discord.gg/T5vEAh4ruF
 
 [Anki Haptics](https://github.com/Kuuuube/ankihaptics) Haptics device integration for Anki.
 
+[Quiddler Solver](https://github.com/Kuuuube/quiddler_solver) Brute forces all possible solutions of the [Quiddler Puzzle](https://www.setgame.com/quiddler/puzzle).
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
