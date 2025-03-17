@@ -10,7 +10,11 @@ Youtube: https://www.youtube.com/@kuuube
 
 Discord: https://discord.gg/T5vEAh4ruF
 
+Github.io: https://kuuuube.github.io/
+
 # Repos
+
+[kuuuube.github.io](https://github.com/Kuuuube/Kuuuube.github.io) My github.io site.
 
 ## OpenTabletDriver Plugins
 
