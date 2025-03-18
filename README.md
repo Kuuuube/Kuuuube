@@ -140,4 +140,6 @@ Github.io: https://kuuuube.github.io/
 
 [Quiddler Solver](https://github.com/Kuuuube/quiddler_solver) Brute forces all possible solutions of the [Quiddler Puzzle](https://www.setgame.com/quiddler/puzzle).
 
+[Word Card Puzzle](https://github.com/Kuuuube/word-card-puzzle) Puzzle game where the goal is to make words out of all cards and have none remaining.
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
