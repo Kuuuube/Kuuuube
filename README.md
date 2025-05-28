@@ -100,6 +100,8 @@ Github.io: https://kuuuube.github.io/
 
 [Kana Quiz](https://github.com/Kuuuube/kana-quiz) Hiragana, Katakana, and Hentaigana learning tool.
 
+[Kana Quiz Sounds](https://github.com/Kuuuube/kana-quiz-sounds) Hiragana and Katakana learning tool using sounds instead of visuals.
+
 [JMdict PyGlossary](https://github.com/Kuuuube/jmdict-pyglossary) Automated builds of JMdict and JMnedict for PyGlossary supported dictionary formats.
 
 ## Marketplace/Shopping Tools
