@@ -104,7 +104,7 @@ Github.io: https://kuuuube.github.io/
 
 [JMdict PyGlossary](https://github.com/Kuuuube/jmdict-pyglossary) Automated builds of JMdict and JMnedict for PyGlossary supported dictionary formats.
 
-[Yomitan API](https://github.com/Kuuuube/yomitan-api) Native messaging component for [Yomitan](https://github.com/yomidevs/yomitan)
+[Yomitan API](https://github.com/Kuuuube/yomitan-api) Native messaging component for [Yomitan](https://github.com/yomidevs/yomitan).
 
 ## Marketplace/Shopping Tools
 
