@@ -146,4 +146,6 @@ Github.io: https://kuuuube.github.io/
 
 [Word Card Puzzle](https://github.com/Kuuuube/word-card-puzzle) Puzzle game where the goal is to make words out of all cards and have none remaining.
 
+[Food](https://github.com/Kuuuube/food) A repo for easily sharing recipes I've tried and approve of. https://kuuuube.github.io/food/
+
 [Misc Scripts](https://github.com/Kuuuube/Misc_Scripts) Miscellaneous scripts, small programs, and notes for other programs I use.
