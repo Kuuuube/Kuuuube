@@ -106,6 +106,8 @@ Github.io: https://kuuuube.github.io/
 
 [Yomitan API](https://github.com/Kuuuube/yomitan-api) Native messaging component for [Yomitan](https://github.com/yomidevs/yomitan).
 
+[Kanji Punt Gun](https://github.com/Kuuuube/kanji-puntgun) Named after the largest shotguns ever built, Kanji Punt Gun provides just about every static visual way possible of searching kanji. All at the same time.
+
 ## Marketplace/Shopping Tools
 
 [Shopify Stock Checker](https://github.com/Kuuuube/Shopify_Stock_Checker) Scripts to check stock of shopify items. 
