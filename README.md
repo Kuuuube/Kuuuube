@@ -12,6 +12,8 @@ Youtube: https://www.youtube.com/@kuuube
 
 Discord: https://discord.gg/T5vEAh4ruF
 
+Steam: https://steamcommunity.com/id/kuuube/
+
 Github.io: https://kuuuube.github.io/
 
 # Repos
